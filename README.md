@@ -3,7 +3,7 @@
 Simple plugin for ripple built using jQuery.
 
 ```bash
-npm install ripple-jQuery --save
+npm install ripple-jquery --save
 ```
 
 # Usage
