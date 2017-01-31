@@ -1,5 +1,5 @@
 {
-  "name": "ripple",
+  "name": "ripple-jquery",
   "version": "1.0.0",
   "description": "plugin for ripple using jquery",
   "main": "index.js",
