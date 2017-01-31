@@ -1,0 +1,26 @@
+{
+  "name": "ripple",
+  "version": "1.0.0",
+  "description": "plugin for ripple using jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minaseem/ripple-jQuery.git"
+  },
+  "keywords": [
+    "ripple",
+    "jQuery",
+    "wave",
+    "waveeffect",
+    "rippleeffect"
+  ],
+  "author": "naseem1992@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minaseem/ripple-jQuery/issues"
+  },
+  "homepage": "https://github.com/minaseem/ripple-jQuery#readme"
+}
