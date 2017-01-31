@@ -22,8 +22,6 @@ time: 1000 //default is 500
 $(selector).ripple(options);
 ```
 
-# Advanced
-
 To `disable` ripple, do following
 
 `$(selector).disableRipple()`
