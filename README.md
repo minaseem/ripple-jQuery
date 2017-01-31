@@ -1,9 +1,10 @@
-# ripple-JQuery
+# ripple-jQuery
 
 Simple plugin for ripple built using jQuery.
 
 [Demo](https://plnkr.co/edit/SIR7m29lWHwOW6S564eX?p=preview)
 
+# Install
 ```bash
 npm install ripple-jquery --save
 ```
